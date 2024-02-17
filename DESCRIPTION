@@ -2,8 +2,8 @@ Type: Package
 Package: MIIVefa
 Title: Exploratory Factor Analysis Using Model Implied Instrumental
         Variables
-Version: 0.1.1
-Date: 2023-09-16
+Version: 0.1.2
+Date: 2024-02-14
 Authors@R: c(person("Lan", "Luo", role = c("aut", "cre"),
                      email = "lanl27@live.unc.edu"),
                      person("Kathleen", "Gates", role = "aut"),
@@ -27,9 +27,9 @@ Language: en-US
 RoxygenNote: 7.2.3
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-09-16 21:09:08 UTC; lanluo
+Packaged: 2024-02-16 00:10:28 UTC; lanluo
 Author: Lan Luo [aut, cre],
   Kathleen Gates [aut],
   Kenneth A. Bollen [aut]
 Repository: CRAN
-Date/Publication: 2023-09-16 21:40:02 UTC
+Date/Publication: 2024-02-17 23:30:15 UTC
